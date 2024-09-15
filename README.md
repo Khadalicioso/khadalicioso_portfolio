@@ -1,4 +1,4 @@
-# main_personal_portfolio
+# khadalicioso_portfolio
 
 This personal portfolio website serves as a showcase of my personal projects and technical skills. It was developed using the fundamental web technologies of HTML, CSS, and JavaScript.
 
